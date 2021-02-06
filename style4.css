@@ -1,0 +1,13 @@
+.playbutton {
+	position: absolute;
+	left: 500px;
+	top: 100px;
+	padding: 20px;
+	font-size: 30px;
+	background-color: #FF00FF;
+	border: 2px solid black;
+	border-radius: 10px;
+	font-family: 'Calibri';
+	letter-spacing: 1.5px;
+
+}
